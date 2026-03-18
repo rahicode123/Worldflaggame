@@ -1,0 +1,50 @@
+export const translations = {
+  en: {
+    title: 'World Flag Game',
+    selectContinent: 'Select a Continent',
+    countries: 'Countries',
+    correct: 'Correct',
+    startQuiz: 'Start Quiz',
+    question: 'Question',
+    time: 'Time',
+    score: 'Score',
+    playAgain: 'Play Again',
+    home: 'Home',
+    motivational: 'You are progressing, try again!',
+    excellent: 'Excellent! You got them all right!',
+    perfect: 'Perfect Score!',
+    seconds: 's',
+    continents: {
+      Africa: 'Africa',
+      Asia: 'Asia',
+      Europe: 'Europe',
+      'North America': 'North America',
+      'South America': 'South America',
+      Oceania: 'Oceania',
+    }
+  },
+  bn: {
+    title: 'বিশ্ব পতাকা খেলা',
+    selectContinent: 'একটি মহাদেশ নির্বাচন করুন',
+    countries: 'দেশ',
+    correct: 'সঠিক',
+    startQuiz: 'কুইজ শুরু করুন',
+    question: 'প্রশ্ন',
+    time: 'সময়',
+    score: 'স্কোর',
+    playAgain: 'আবার খেলুন',
+    home: 'হোম',
+    motivational: 'আপনি উন্নতি করছেন, আবার চেষ্টা করুন!',
+    excellent: 'চমৎকার! আপনি সব সঠিক করেছেন!',
+    perfect: 'নিখুঁত স্কোর!',
+    seconds: 'সেকেন্ড',
+    continents: {
+      Africa: 'আফ্রিকা',
+      Asia: 'এশিয়া',
+      Europe: 'ইউরোপ',
+      'North America': 'উত্তর আমেরিকা',
+      'South America': 'দক্ষিণ আমেরিকা',
+      Oceania: 'ওশেনিয়া',
+    }
+  }
+};
